@@ -1,0 +1,7 @@
+metric,value
+cr_psa,0.01785
+cr_ad,0.02555
+delta_cr_base,0.00769
+delta_cr_conservative,0.00587
+delta_cr_optimistic,0.00936
+lift,0.431
