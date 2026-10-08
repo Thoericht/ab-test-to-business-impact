@@ -8,7 +8,7 @@ The report combines an executive-level dashboard overview with a more detailed u
 
 ### 1. Dashboard overview
 
-![Dashboard Overview](dashboard-overview.jpg)
+![Dashboard Overview](/05_screenshots/dashboard-overview.png)
 
 The overview page provides a high-level summary of the experiment, user engagement, conversion outcomes, and financial implications of the advertising treatment.
 
@@ -48,7 +48,7 @@ The scenario charts additionally show how incremental profit and break-even CPM 
 
 ### 2. Exposure and conversion overview
 
-![Exposure and Conversion Overview](exposure-conversion-overview.jpg)
+![Exposure and Conversion Overview](05_screenshots/exposure-conversion-overview.png)
 
 The exposure and conversion page examines recorded ad exposure and observed conversion outcomes at the user-segment level.
 
